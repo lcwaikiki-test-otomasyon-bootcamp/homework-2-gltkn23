@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Lcw suit" verbose="1" >
+    <test name="Cart Page" >
+        <classes>
+            <class name="Runner.runner" />
+        </classes>
+    </test>
+</suite>
